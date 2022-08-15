@@ -1,0 +1,15 @@
+**/target
+**/build
+**/test-output
+**/.metadata
+**/.classpath
+**/.project
+**/.settings
+**/.factorypath
+/.work/
+**/bin
+*/.sonar
+**/.~lock.*
+.mvn
+.vscode/
+**/.vs
